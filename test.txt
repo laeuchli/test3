@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-Hello World! Test is ok!
-=======
 Hello World! Test is meh!
->>>>>>> c2b4ebd1981f8bb71f8c6a2e5341da5a5d5c3632
+
